@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-COntent will be added (from private repo) by Aug 1st, 2024
+Content will be added (from private repo) by Aug 1st, 2024
 
 <!--
 
