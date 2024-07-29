@@ -1,0 +1,41 @@
+# Add specific files/folders related to your project
+__pycache__
+
+
+
+# System Files
+.DS_Store
+Thumbs.db
+/local.properties
+
+# IDEs and editors
+.idea
+.gradle
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+proguard/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Log file
+*.log
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+target/
+**/build/
+
+# lint
+/lint
+
