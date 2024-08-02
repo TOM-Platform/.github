@@ -35,13 +35,12 @@ A Development Platform For Wearable Intelligent Assistants
 - [Chun Keat Koh](https://ssi.nus.edu.sg/#people)
 
 ## Contributors
-- This work is done under the [Smart System Institute, NUS](https://ssi.nus.edu.sg) 
+- Initial work is done under the guidance of [Smart System Institute, NUS](https://ssi.nus.edu.sg) and [Synteraction (formerly NUS-HCI) Lab](https://synteraction.org/)
 - Special thanks to the interns worked under TOM project
-  - [@SherisseTJW](https://www.github.com/SherisseTJW), [@Jarrett0203](https://www.github.com/Jarrett0203), ...
-- 
+  - This include but not limited to; [@SherisseTJW](https://www.github.com/SherisseTJW), [@Jarrett0203](https://www.github.com/Jarrett0203), [@tau-bar](https://www.github.com/tau-bar), [@IDMYW](https://www.github.com/IDMYW), [@Hongyi6328](https://www.github.com/Hongyi6328), [@albertarielw](https://www.github.com/albertarielw), [@yitong241](https://www.github.com/yitong241), [@yiwen101](https://www.github.com/yiwen101), [@LOLIPOP-INTELLIGENCE](https://www.github.com/LOLIPOP-INTELLIGENCE), [@StanleyNeoh](https://www.github.com/StanleyNeoh), [@samuelthen](https://www.github.com/samuelthen), [@raihahahan](https://www.github.com/raihahahan), [@accountexeregister](https://www.github.com/accountexeregister), [@jonathanmui4](https://www.github.com/jonathanmui4), [@lshaoqin](https://www.github.com/lshaoqin), [@matochichap](https://www.github.com/matochichap), [@lsyurea](https://www.github.com/lsyurea), [@LordSaumya](https://www.github.com/LordSaumya), [@tyouwei](https://www.github.com/tyouwei)...
 
 
-Content will be added (from private repo) by Aug 1st, 2024
+
 
 <!--
 
