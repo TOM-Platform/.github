@@ -34,7 +34,7 @@ A Development Platform For Wearable Intelligent Assistants
 - [Demonstrating TOM: A Development Platform For Wearable Intelligent Assistants](https://doi.org/10.1145/3675094.3677551), UbiComp/ISWC'24
   - Camera Ready [PDF](paper/UbiComp24_Demonstrating_TOM.pdf)
 
-- [![Video](paper/conceptual_entities.jpg)](https://youtu.be/jF5aA-_rCbM)
+- Video: [![Video](paper/conceptual_entities.jpg)](https://youtu.be/jF5aA-_rCbM)
 
 
 ## Contact Persons
