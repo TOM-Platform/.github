@@ -5,7 +5,7 @@ A Development Platform For Wearable Intelligent Assistants
 
 
 ## Repositories
-- Please refer to ## Publications for architecture and design details
+- Please refer to [Publications](#Publications) for architecture and design details
 - [TOM-Server-Python](https://github.com/TOM-Platform/TOM-Server-Python): A Python implementation of the server that handles the client data and application logic
 - [TOM-Client-Unity](https://github.com/TOM-Platform/TOM-Client-Unity): A Unity implementation of the client to support smart glasses and phones that receive data from the server
 - [TOM-Client-WearOS](https://github.com/TOM-Platform/TOM-Client-WearOS): A WearOS (Android smartwatch) application to read and send sensor data to the server
