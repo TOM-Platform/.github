@@ -1,7 +1,7 @@
 ## TOM (The Other Me)
 A Development Platform For Wearable Intelligent Assistants
 
-- If you find any issues, please create GitHub issues on corresponding repositories
+- If you find any issues, please create GitHub issues on the corresponding repositories
 
 
 ## Repositories
@@ -15,26 +15,15 @@ A Development Platform For Wearable Intelligent Assistants
 - [TOM: A Development Platform For Wearable Intelligent Assistants](https://doi.org/10.1145/3675094.3678382), UbiComp/ISWC'24
   - Camera Ready [PDF](paper/Ubicomp24_TOM.pdf)
 ```
-@inproceedings{janaka_tom_2024,
-	title = {{TOM}: {A} {Development} {Platform} {For} {Wearable} {Intelligent} {Assistants}},
-	shorttitle = {{TOM}},
-	url = {https://doi.org/10.1145/3675094.3678382},
-	doi = {10.1145/3675094.3678382},
-	language = {en},
-	publisher = {Association for Computing Machinery},
-	booktitle  = {In {Companion} of the 2024 {ACM} {International} {Joint} {Conference} on {Pervasive} and {Ubiquitous} {Computing} {Pervasive} and {Ubiquitous} {Computing}},
-	series = {{UbiComp} {Companion} ’24},
-	author = {Janaka, Nuwan and Zhao, Shengdong and Hsu, David and Tan Jing Wen, Sherisse and  Keat Koh, Chun},
-	month = sep,
-	year = {2024},
-}
+Nuwan Janaka, Shengdong Zhao, David Hsu, Sherisse Tan Jing Wen, and Chun Keat Koh. 2024. TOM: A Development Platform For Wearable Intelligent Assistants. In Companion of the 2024 ACM International Joint Conference on
+Pervasive and Ubiquitous Computing Pervasive and Ubiquitous Computing (UbiComp Companion ’24). ACM. https://doi.org/10.1145/3675094.3678382 
 ```
 - [Demonstrating TOM: A Development Platform for Wearable Intelligent Assistants in Daily Activities](https://doi.org/10.1145/3640471.3680445), MobileHCI'24
   - Camera Ready [PDF](paper/MobileHCI24_Demonstrating_TOM.pdf)
 - [Demonstrating TOM: A Development Platform For Wearable Intelligent Assistants](https://doi.org/10.1145/3675094.3677551), UbiComp/ISWC'24
   - Camera Ready [PDF](paper/UbiComp24_Demonstrating_TOM.pdf)
 
-- Video: [![Video](paper/conceptual_entities.jpg)](https://youtu.be/jF5aA-_rCbM)
+- Video: [![Video](paper/TOM_architecture.png)](https://youtu.be/jF5aA-_rCbM)
 
 
 ## Contact Persons
@@ -43,7 +32,7 @@ A Development Platform For Wearable Intelligent Assistants
 
 ## Contributors
 - Initial work is done under the guidance of [Smart System Institute, NUS](https://ssi.nus.edu.sg) and [Synteraction (formerly NUS-HCI) Lab](https://synteraction.org/)
-- Special thanks to the interns worked under TOM project
+- Special thanks to the interns who worked under the TOM project
   - This include but not limited to; [@SherisseTJW](https://www.github.com/SherisseTJW), [@Jarrett0203](https://www.github.com/Jarrett0203), [@tau-bar](https://www.github.com/tau-bar), [@IDMYW](https://www.github.com/IDMYW), [@Hongyi6328](https://www.github.com/Hongyi6328), [@albertarielw](https://www.github.com/albertarielw), [@yitong241](https://www.github.com/yitong241), [@yiwen101](https://www.github.com/yiwen101), [@LOLIPOP-INTELLIGENCE](https://www.github.com/LOLIPOP-INTELLIGENCE), [@StanleyNeoh](https://www.github.com/StanleyNeoh), [@samuelthen](https://www.github.com/samuelthen), [@raihahahan](https://www.github.com/raihahahan), [@accountexeregister](https://www.github.com/accountexeregister), [@jonathanmui4](https://www.github.com/jonathanmui4), [@lshaoqin](https://www.github.com/lshaoqin), [@matochichap](https://www.github.com/matochichap), [@lsyurea](https://www.github.com/lsyurea), [@LordSaumya](https://www.github.com/LordSaumya), [@tyouwei](https://www.github.com/tyouwei)...
 
 
