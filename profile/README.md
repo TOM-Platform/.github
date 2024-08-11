@@ -35,8 +35,7 @@ Pervasive and Ubiquitous Computing Pervasive and Ubiquitous Computing (UbiComp C
 - Special thanks to the interns who worked under the TOM project
   - This include but not limited to; [@SherisseTJW](https://www.github.com/SherisseTJW), [@Jarrett0203](https://www.github.com/Jarrett0203), [@tau-bar](https://www.github.com/tau-bar), [@IDMYW](https://www.github.com/IDMYW), [@Hongyi6328](https://www.github.com/Hongyi6328), [@karanjotsv](https://www.github.com/karanjotsv), [@albertarielw](https://www.github.com/albertarielw), [@PawanPatil19](https://www.github.com/PawanPatil19), [@yitong241](https://www.github.com/yitong241), [@yiwen101](https://www.github.com/yiwen101), [@LOLIPOP-INTELLIGENCE](https://www.github.com/LOLIPOP-INTELLIGENCE), [@StanleyNeoh](https://www.github.com/StanleyNeoh), [@samuelthen](https://www.github.com/samuelthen), [@raihahahan](https://www.github.com/raihahahan), [@accountexeregister](https://www.github.com/accountexeregister), [@jonathanmui4](https://www.github.com/jonathanmui4), [@lshaoqin](https://www.github.com/lshaoqin), [@matochichap](https://www.github.com/matochichap), [@lsyurea](https://www.github.com/lsyurea), [@LordSaumya](https://www.github.com/LordSaumya), [@tyouwei](https://www.github.com/tyouwei)...
 
-
-
+- If you are interested in contributing to the project, please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 <!--
 
