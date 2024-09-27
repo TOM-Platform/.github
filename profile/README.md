@@ -9,6 +9,7 @@ A Development Platform For Wearable Intelligent Assistants
 - [TOM-Server-Python](https://github.com/TOM-Platform/TOM-Server-Python): A Python implementation of the server that handles the client data and application logic
 - [TOM-Client-Unity](https://github.com/TOM-Platform/TOM-Client-Unity): A Unity implementation of the client to support smart glasses and phones that receive data from the server
 - [TOM-Client-WearOS](https://github.com/TOM-Platform/TOM-Client-WearOS): A WearOS (Android smartwatch) application to read and send sensor data to the server
+- [TOM-Client-Web](https://github.com/TOM-Platform/TOM-Client-Web): A web dashboard for TOM, developed with Vue 3 in Vite.
 
 
 ## Publications
@@ -36,6 +37,7 @@ A Development Platform For Wearable Intelligent Assistants
 
 - Video: [![Video](paper/conceptual_entities.jpg)](https://youtu.be/jF5aA-_rCbM)
 
+- Poster: [PDF](paper/TOM_poster.pdf)
 
 ## Contact Persons
 - [Nuwan Janaka](https://ssi.nus.edu.sg/#people) ([In](https://www.linkedin.com/in/nuwan-janaka/))
