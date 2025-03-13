@@ -1,5 +1,11 @@
 # Contributing to TOM (The Other Me)
 
+We strive to make contributing to this project as easy and transparent as possible.
+
+## Development Process
+This project is part of the `TOM` initiative. We actively develop `TOM-Platform` internally and share stable versions with the open-source community.
+
+
 ## Did you find a bug?
 
 - **Ensure the bug was not already reported** by searching on GitHub under Issues for the corresponding repository.
